@@ -1,0 +1,9 @@
+{
+	"name": "Project-data-factory-demo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e434692e-863e-48be-80fb-8f44a55094ad",
+		"tenantId": "723a5a87-f39a-4a22-9247-3fc240c01396"
+	}
+}
